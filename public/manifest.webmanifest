@@ -1,0 +1,11 @@
+{
+  "name": "ONLY FOR PROFESSOR LILY",
+  "short_name": "Prof. Lily",
+  "description": "An extremely serious university with a deeply unserious robot.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF8ED",
+  "theme_color": "#171C34",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
